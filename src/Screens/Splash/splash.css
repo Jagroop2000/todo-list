@@ -1,0 +1,16 @@
+.App {
+  
+  height: 100%;
+  width: 100%;
+  
+  }
+  
+  .logo{
+    justify-content: center;
+    align-self: center;
+  }
+  
+  .cursiveStyle{
+    font-family: 'Cedarville Cursive', cursive;
+  }
+  
